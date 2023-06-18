@@ -1,8 +1,5 @@
 Hello Team,
     I am going to work on git.
-<<<<<<< HEAD
-
-Hey How are you
-=======
 Hi
->>>>>>> origin/master
+Hey How are you
+
